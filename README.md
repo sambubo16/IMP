@@ -1,6 +1,6 @@
 ## IMP
 
-**IMP** is a thing in Batch wi
+**IMP** is a thing in Batch for printing images or GIFS, without using any .EXE
 
 ### Features
 
